@@ -2,6 +2,11 @@
 <html>
     <body>
         <h1>Tr1Fecta's repo</h1>
+
+        <p<strong>I host my tweaks that i have made on this repo.</strong>></p>
+        <br>
+        <p>To add my repo use the link: <code class="highlighter-rouge">https://tr1fecta-7.github.io/repo/</code> in your package manager or use one of the buttons below.</p>
+
         <table>
         <tbody>
             <tr>
