@@ -1,0 +1,32 @@
+Package: com.tr1fecta.shylabels
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.shylabels/com.tr1fecta.shylabels_1.0_iphoneos-arm.deb
+Size: 2316
+MD5sum: f5b3a377fb1142bcd91869e781bd0cb9
+SHA1: 0cf561d3503fa26b0fc29c5b3001641c447df7b4
+SHA256: efaf6fb5b4d781781fc2a88d9cdfb1c7e910029ccd106e02a4f637bfef916061
+Section: Tweaks
+Description: A tweak to remove apps and folder name labels
+Author: Tr1Fecta
+Name: ShyLabels
+
+Package: com.tr1fecta.transparentdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tr1Fecta
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.tr1fecta.transparentdock/com.tr1fecta.transparentdock_1.0_iphoneos-arm.deb
+Size: 2312
+MD5sum: dedd39b52ee4f5aa57dd89d355c74e20
+SHA1: 3ef5c3215fb88cc39d13269b9fce41e257adc830
+SHA256: 54caf588b4f4651faad32a3d66c1d2d01dcf73a99068b7d61dff13ce2dd2403a
+Section: Tweaks
+Description: A tweak to make the background of the dock transparent
+Author: Tr1Fecta
+Name: TransparentDock
+
